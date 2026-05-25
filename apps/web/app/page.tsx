@@ -1,7 +1,9 @@
+import CreateProduct from "./create-product/create-product ";
+
 export default function Home() {
   return (
     <>
-      <h1>walid</h1>
+      <CreateProduct></CreateProduct>
     </>
   );
 }
